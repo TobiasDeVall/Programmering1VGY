@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\bin\Debug\Switch_Satser.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\bin\Debug\Switch_Satser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\bin\Debug\Switch_Satser.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\obj\Debug\Switch_Satser.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\obj\Debug\Switch_Satser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Switch_Satser\Switch_Satser\obj\Debug\Switch_Satser.pdb
