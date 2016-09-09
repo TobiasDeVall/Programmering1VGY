@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\bin\Debug\OutputTest.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\bin\Debug\OutputTest.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\bin\Debug\OutputTest.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\obj\Debug\OutputTest.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\obj\Debug\OutputTest.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\OutputTest\OutputTest\obj\Debug\OutputTest.pdb

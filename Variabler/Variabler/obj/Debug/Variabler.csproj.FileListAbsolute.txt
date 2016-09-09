@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\bin\Debug\Variabler.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\bin\Debug\Variabler.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\bin\Debug\Variabler.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\obj\Debug\Variabler.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\obj\Debug\Variabler.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Variabler\Variabler\obj\Debug\Variabler.pdb
