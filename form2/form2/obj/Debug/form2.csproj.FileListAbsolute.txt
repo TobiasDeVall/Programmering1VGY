@@ -1,0 +1,9 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\bin\Debug\form2.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\bin\Debug\form2.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\bin\Debug\form2.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.Form1.resources
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.Properties.Resources.resources
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.csproj.GenerateResource.Cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\form2\form2\obj\Debug\form2.pdb
