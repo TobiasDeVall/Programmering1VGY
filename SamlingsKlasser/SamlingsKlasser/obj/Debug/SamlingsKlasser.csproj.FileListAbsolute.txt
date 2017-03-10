@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\bin\Debug\SamlingsKlasser.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\bin\Debug\SamlingsKlasser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\bin\Debug\SamlingsKlasser.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\obj\Debug\SamlingsKlasser.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\obj\Debug\SamlingsKlasser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\SamlingsKlasser\SamlingsKlasser\obj\Debug\SamlingsKlasser.pdb

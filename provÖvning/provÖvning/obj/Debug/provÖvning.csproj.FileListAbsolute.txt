@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\bin\Debug\provÖvning.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\obj\Debug\provÖvning.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\bin\Debug\provÖvning.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\bin\Debug\provÖvning.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\obj\Debug\provÖvning.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\provÖvning\provÖvning\obj\Debug\provÖvning.pdb

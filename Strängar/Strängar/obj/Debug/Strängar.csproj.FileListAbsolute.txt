@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\bin\Debug\Strängar.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\bin\Debug\Strängar.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\bin\Debug\Strängar.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\obj\Debug\Strängar.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\obj\Debug\Strängar.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Strängar\Strängar\obj\Debug\Strängar.pdb
