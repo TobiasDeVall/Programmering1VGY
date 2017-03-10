@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\bin\Debug\Övning 6.exe.config
+C:\Users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\bin\Debug\Övning 6.exe
+C:\Users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\bin\Debug\Övning 6.pdb
+C:\Users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\obj\Debug\Övning 6.csprojResolveAssemblyReference.cache
+C:\Users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\obj\Debug\Övning 6.exe
+C:\Users\tobiasdl\documents\visual studio 2015\Projects\Övning 6\Övning 6\obj\Debug\Övning 6.pdb

@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\bin\Debug\While_Satser.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\bin\Debug\While_Satser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\bin\Debug\While_Satser.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\obj\Debug\While_Satser.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\obj\Debug\While_Satser.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\While_Satser\While_Satser\obj\Debug\While_Satser.pdb
