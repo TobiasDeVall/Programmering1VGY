@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\bin\Debug\felhantering.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\obj\Debug\felhantering.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\bin\Debug\felhantering.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\bin\Debug\felhantering.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\obj\Debug\felhantering.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\felhantering\felhantering\obj\Debug\felhantering.pdb
