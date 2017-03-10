@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\bin\Debug\Nästlade_Loopar.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\bin\Debug\Nästlade_Loopar.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\bin\Debug\Nästlade_Loopar.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\obj\Debug\Nästlade_Loopar.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\obj\Debug\Nästlade_Loopar.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Nästlade_Loopar\Nästlade_Loopar\obj\Debug\Nästlade_Loopar.pdb
