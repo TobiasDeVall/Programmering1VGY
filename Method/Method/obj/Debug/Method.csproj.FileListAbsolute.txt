@@ -1,0 +1,6 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\bin\Debug\Method.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\Method\Method\obj\Debug\Method.pdb
