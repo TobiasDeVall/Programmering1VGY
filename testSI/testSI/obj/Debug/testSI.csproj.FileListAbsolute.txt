@@ -1,0 +1,10 @@
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\bin\Debug\testSI.exe.config
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\bin\Debug\testSI.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\bin\Debug\testSI.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.csprojResolveAssemblyReference.cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.Form1.resources
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.Properties.Resources.resources
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.csproj.GenerateResource.Cache
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.exe
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.pdb
+c:\users\tobiasdl\documents\visual studio 2015\Projects\testSI\testSI\obj\Debug\testSI.Form2.resources
